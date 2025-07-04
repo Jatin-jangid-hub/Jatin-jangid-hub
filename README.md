@@ -41,7 +41,7 @@ I'm a **Data Analyst** with a strong passion for turning raw data into impactful
 ## 📬 Let's Connect
 
 
-[![Gmail](jangidjatin99@gmail.com)
+[![Gmail][jangidjatin99@gmail.com](mailto:jangidjatin99@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/Jatin-jangid-hub)
 
 ---
