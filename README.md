@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm [Jatin Jangid]</h1>
 
-<!--
-**Jatin-jangid-hub/Jatin-jangid-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎯 Aspiring Data Analyst | 🐍 Python Enthusiast | 📊 Power BI Developer | 📈 SQL Explorer
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I'm a **Data Analyst** with a strong passion for turning raw data into impactful insights. I specialize in cleaning, analyzing, and visualizing data using tools like **Python**, **SQL**, **Power BI**, and **Excel**. I'm constantly learning and building projects to enhance my analytical and problem-solving skills.
+
+---
+
+## 🚀 Skills & Tools
+
+### 🐍 Programming & Libraries
+- Python (NumPy, Pandas, Seaborn, Matplotlib)
+
+### 🛢️ Databases & Querying
+- SQL (MySQL)
+
+### 📊 Data Visualization & Reporting
+- Power BI (DAX, Custom Visuals)
+- Excel (Formulas, Pivot Tables, Dashboards)
+
+### ⚙️ Tools & Platforms
+- Git & GitHub
+- Google Sheets
+
+---
+
+## 📚 Currently Learning
+
+- 📘 Advanced DAX & Power BI Report Optimization  
+- 🧪 A/B Testing & Hypothesis Testing in Python  
+- 🛠️ GitHub Actions for Data Projects
+
+---
+
+## 📬 Let's Connect
+
+
+[![Gmail](jangidjatin99@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/Jatin-jangid-hub)
+
+---
+
+<p align="center">
+  🚀 *Open to internships, freelance gigs, and entry-level roles in Data Analysis & BI.*
+</p>
