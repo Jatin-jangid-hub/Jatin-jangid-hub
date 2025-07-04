@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm [Jatin Jangid]</h1>
+<h1 align="center">👋😊 Hey there, I'm so glad you're here!</h1>
 
 <p align="center">
   🎯 Aspiring Data Analyst | 🐍 Python Enthusiast | 📊 Power BI Developer | 📈 SQL Explorer
